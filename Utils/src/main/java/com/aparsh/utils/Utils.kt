@@ -34,7 +34,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 import java.util.regex.Pattern
 
-public class Utils {
+public class SparshUtils {
 
 
     var dataStore: DataStore<Preferences>? = null
