@@ -25,7 +25,6 @@ dependencies
   }
 ```
 
-
 ## Functions
 
 **1. Show SnackBar**
